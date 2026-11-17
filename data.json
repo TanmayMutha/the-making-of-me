@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "headline": "Engineering Student \u00b7 Builder \u00b7 Lifelong Learner",
+    "location": "",
+    "email": "",
+    "phone": "",
+    "summary": "Write a short introduction about who you are, what you build, and what you are working towards.",
+    "linkedin": "",
+    "github": "",
+    "website": "",
+    "photo": ""
+  },
+  "sections": [
+    {
+      "id": "education",
+      "title": "Education",
+      "description": "Schools, degrees, academic distinctions and coursework",
+      "items": []
+    },
+    {
+      "id": "experience",
+      "title": "Work Experience",
+      "description": "Jobs, internships, apprenticeships, freelance and industrial training",
+      "items": []
+    },
+    {
+      "id": "projects",
+      "title": "Projects",
+      "description": "Academic, personal, hardware, software, research and open-source projects",
+      "items": []
+    },
+    {
+      "id": "skills",
+      "title": "Technical Skills",
+      "description": "Tools, programming languages, engineering software and methods",
+      "items": []
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications & Courses",
+      "description": "Credentials, online courses and structured training",
+      "items": []
+    },
+    {
+      "id": "achievements",
+      "title": "Achievements & Awards",
+      "description": "Awards, scholarships, recognition and milestones",
+      "items": []
+    },
+    {
+      "id": "leadership",
+      "title": "Leadership & Responsibility",
+      "description": "Leadership roles, student committees and organising responsibilities",
+      "items": []
+    },
+    {
+      "id": "extracurricular",
+      "title": "Extracurricular Activities",
+      "description": "Creative pursuits, clubs, hobbies and cultural activities",
+      "items": []
+    },
+    {
+      "id": "volunteering",
+      "title": "Volunteering & Social Impact",
+      "description": "Community service, NGO work and social initiatives",
+      "items": []
+    },
+    {
+      "id": "competitions",
+      "title": "Competitions & Participation",
+      "description": "Hackathons, contests, fests, tournaments and presentations",
+      "items": []
+    },
+    {
+      "id": "research",
+      "title": "Research & Publications",
+      "description": "Papers, publications, patents, articles and independent research",
+      "items": []
+    },
+    {
+      "id": "entrepreneurship",
+      "title": "Entrepreneurship & Initiatives",
+      "description": "Startups, businesses, side projects and independent ventures",
+      "items": []
+    },
+    {
+      "id": "soft-skills",
+      "title": "Communication & Interpersonal Skills",
+      "description": "Communication, teamwork, public speaking and problem-solving",
+      "items": []
+    },
+    {
+      "id": "languages",
+      "title": "Languages",
+      "description": "Languages and your reading, writing and speaking proficiency",
+      "items": []
+    },
+    {
+      "id": "memberships",
+      "title": "Memberships & Affiliations",
+      "description": "Professional societies, student chapters and communities",
+      "items": []
+    },
+    {
+      "id": "events",
+      "title": "Events, Conferences & Workshops",
+      "description": "Seminars, industrial visits, workshops and conferences",
+      "items": []
+    },
+    {
+      "id": "sports",
+      "title": "Sports & Physical Activities",
+      "description": "Sports, teams, tournaments, coaching and fitness activities",
+      "items": []
+    },
+    {
+      "id": "other",
+      "title": "Other Experiences",
+      "description": "Mentoring, tutoring, content creation and meaningful contributions",
+      "items": []
+    }
+  ]
+}
