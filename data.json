@@ -1,123 +1,111 @@
 {
   "profile": {
-    "name": "Your Name",
-    "headline": "Engineering Student \u00b7 Builder \u00b7 Lifelong Learner",
+    "name": "The Making of Me",
+    "tagline": "A living record of what I've learned, built, experienced and become.",
+    "about": "A personal archive of the projects, people, experiences and milestones that have shaped me.",
     "location": "",
     "email": "",
-    "phone": "",
-    "summary": "Write a short introduction about who you are, what you build, and what you are working towards.",
-    "linkedin": "",
-    "github": "",
-    "website": "",
-    "photo": ""
+    "links": []
   },
   "sections": [
     {
-      "id": "education",
+      "id": "s0",
       "title": "Education",
-      "description": "Schools, degrees, academic distinctions and coursework",
       "items": []
     },
     {
-      "id": "experience",
+      "id": "s1",
       "title": "Work Experience",
-      "description": "Jobs, internships, apprenticeships, freelance and industrial training",
       "items": []
     },
     {
-      "id": "projects",
+      "id": "s2",
+      "title": "Internships",
+      "items": []
+    },
+    {
+      "id": "s3",
       "title": "Projects",
-      "description": "Academic, personal, hardware, software, research and open-source projects",
       "items": []
     },
     {
-      "id": "skills",
+      "id": "s4",
       "title": "Technical Skills",
-      "description": "Tools, programming languages, engineering software and methods",
       "items": []
     },
     {
-      "id": "certifications",
-      "title": "Certifications & Courses",
-      "description": "Credentials, online courses and structured training",
+      "id": "s5",
+      "title": "Certifications",
       "items": []
     },
     {
-      "id": "achievements",
+      "id": "s6",
       "title": "Achievements & Awards",
-      "description": "Awards, scholarships, recognition and milestones",
       "items": []
     },
     {
-      "id": "leadership",
-      "title": "Leadership & Responsibility",
-      "description": "Leadership roles, student committees and organising responsibilities",
+      "id": "s7",
+      "title": "Leadership & Positions of Responsibility",
       "items": []
     },
     {
-      "id": "extracurricular",
+      "id": "s8",
       "title": "Extracurricular Activities",
-      "description": "Creative pursuits, clubs, hobbies and cultural activities",
       "items": []
     },
     {
-      "id": "volunteering",
-      "title": "Volunteering & Social Impact",
-      "description": "Community service, NGO work and social initiatives",
+      "id": "s9",
+      "title": "Volunteering & Social Contributions",
       "items": []
     },
     {
-      "id": "competitions",
-      "title": "Competitions & Participation",
-      "description": "Hackathons, contests, fests, tournaments and presentations",
+      "id": "s10",
+      "title": "Competitions",
       "items": []
     },
     {
-      "id": "research",
+      "id": "s11",
       "title": "Research & Publications",
-      "description": "Papers, publications, patents, articles and independent research",
       "items": []
     },
     {
-      "id": "entrepreneurship",
-      "title": "Entrepreneurship & Initiatives",
-      "description": "Startups, businesses, side projects and independent ventures",
+      "id": "s12",
+      "title": "Entrepreneurship",
       "items": []
     },
     {
-      "id": "soft-skills",
+      "id": "s13",
       "title": "Communication & Interpersonal Skills",
-      "description": "Communication, teamwork, public speaking and problem-solving",
       "items": []
     },
     {
-      "id": "languages",
+      "id": "s14",
       "title": "Languages",
-      "description": "Languages and your reading, writing and speaking proficiency",
       "items": []
     },
     {
-      "id": "memberships",
+      "id": "s15",
       "title": "Memberships & Affiliations",
-      "description": "Professional societies, student chapters and communities",
       "items": []
     },
     {
-      "id": "events",
+      "id": "s16",
       "title": "Events, Conferences & Workshops",
-      "description": "Seminars, industrial visits, workshops and conferences",
       "items": []
     },
     {
-      "id": "sports",
-      "title": "Sports & Physical Activities",
-      "description": "Sports, teams, tournaments, coaching and fitness activities",
+      "id": "s17",
+      "title": "Sports & Fitness",
       "items": []
     },
     {
-      "id": "other",
+      "id": "s18",
+      "title": "Personal Milestones",
+      "items": []
+    },
+    {
+      "id": "s19",
       "title": "Other Experiences",
-      "description": "Mentoring, tutoring, content creation and meaningful contributions",
       "items": []
     }
   ]
