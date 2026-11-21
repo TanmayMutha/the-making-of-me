@@ -74,7 +74,27 @@
     {
       "id": "s9",
       "title": "Volunteering & Social Contributions",
-      "items": []
+      "items": [
+        {
+          "id": "e1795277139444",
+          "title": "fahh",
+          "organization": "thhr",
+          "date": "hfhhf",
+          "description": "fhfh",
+          "highlights": [
+            "fhfhf"
+          ],
+          "links": [],
+          "media": [
+            {
+              "kind": "image",
+              "name": "WIN_20250904_19_37_08_Pro.jpg",
+              "caption": "",
+              "path": "assets/images/e1795277139444-1795277141634-0-WIN_20250904_19_37_08_Pro.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "s10",
