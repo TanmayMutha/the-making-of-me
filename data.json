@@ -1,26 +1,35 @@
 {
   "profile": {
-    "name": "Tanmay Anand Mutha",
+    "name": "The Making of Me",
     "tagline": "A living record of what I've learned, built, experienced and become.",
     "about": "A personal archive of the projects, people, experiences and milestones that have shaped me.",
-    "location": "Pune, India",
+    "location": "",
     "email": "",
-    "links": [
-      {
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/tanmay-mutha/"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/tanmaymutha_/"
-      }
-    ]
+    "links": []
   },
   "sections": [
     {
       "id": "s0",
       "title": "Education",
-      "items": []
+      "items": [
+        {
+          "id": "e1795276922964",
+          "title": "Bachelor of Technology",
+          "organization": "COEP Technological University",
+          "date": "June 2023 to June 2027",
+          "description": "stuff",
+          "highlights": [],
+          "links": [],
+          "media": [
+            {
+              "kind": "image",
+              "name": "WIN_20260627_17_41_20_Pro.jpg",
+              "caption": "",
+              "path": "assets/images/e1795276922964-1795276929619-0-WIN_20260627_17_41_20_Pro.jpg"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "s1",
